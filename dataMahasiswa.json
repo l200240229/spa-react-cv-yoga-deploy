@@ -1,0 +1,88 @@
+{
+  "id": 12,
+  "slug": "aulia-pratama-2103010023",
+
+  "profile": {
+    "full_name": "Aulia Pratama",
+    "nim": "2103010023",
+    "prodi": "Teknik Informatika",
+    "angkatan": "2021",
+    "photo_url": "https://cdn.talenta-ums.ac.id/photos/aulia.jpg",
+    "headline": "Fullstack Web Developer | React & Django Enthusiast",
+    "short_bio": "Mahasiswa UMS dengan minat pada pengembangan web fullstack.",
+    "location": "Surakarta, Jawa Tengah",
+    "portfolio_url": "https://auliapratama.com"
+  },
+
+  "skills": [
+    {
+      "id": 1,
+      "name": "ReactJS",
+      "category": "technical",
+      "level": "advanced",
+      "is_main": true,
+      "years_of_experience": 2,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+    {
+      "id": 2,
+      "name": "Django REST Framework",
+      "category": "technical",
+      "level": "intermediate",
+      "is_main": true,
+      "years_of_experience": 1,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+    },
+    {
+      "id": 3,
+      "name": "Tailwind CSS",
+      "category": "technical",
+      "level": "intermediate",
+      "is_main": false,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+    }
+  ],
+
+  "experiences": [
+    {
+      "id": 101,
+      "title": "Frontend Developer Intern",
+      "organization": "PT Digital Solusi Nusantara",
+      "experience_type": "internship",
+      "start_date": "2024-07-01",
+      "end_date": "2024-09-30",
+      "is_current": false,
+      "description": "Mengembangkan antarmuka dashboard internal menggunakan React.",
+      "technologies": ["ReactJS", "Tailwind CSS"],
+      "image_url": "https://cdn.example.com/company/digitalsolusi.png"
+    },
+    {
+      "id": 102,
+      "title": "Head of Web Development Division",
+      "organization": "UKM Informatika UMS",
+      "experience_type": "organization",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "is_current": false,
+      "description": "Mengkoordinasi tim pengembang web untuk kegiatan UKM.",
+      "image_url": "https://cdn.example.com/logo/ukm-informatika.png"
+    },
+    {
+      "id": 103,
+      "title": "Backend Developer (Freelance)",
+      "organization": "Freelance Project",
+      "experience_type": "project",
+      "start_date": "2024-10-01",
+      "end_date": null,
+      "is_current": true,
+      "description": "Membangun API backend UMKM menggunakan DRF dan PostgreSQL.",
+      "technologies": ["Django", "DRF", "PostgreSQL"],
+      "image_url": "https://cdn.example.com/projects/umkm-inventory.png"
+    }
+  ],
+
+  "statistics": {
+    "views_count": 127,
+    "profile_complete_percent": 92
+  }
+}
