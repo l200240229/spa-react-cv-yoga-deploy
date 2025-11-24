@@ -1,82 +1,112 @@
 {
   "id": 12,
-  "slug": "aulia-pratama-2103010023",
+  "slug": "yoga-andika-hanryant-pratama-l200240229",
 
   "profile": {
-    "full_name": "Aulia Pratama",
-    "nim": "2103010023",
+    "full_name": "Yoga Andika Hanryant Pratama",
+    "nim": "L200240229",
     "prodi": "Teknik Informatika",
-    "angkatan": "2021",
-    "photo_url": "https://cdn.talenta-ums.ac.id/photos/aulia.jpg",
-    "headline": "Fullstack Web Developer | React & Django Enthusiast",
-    "short_bio": "Mahasiswa UMS dengan minat pada pengembangan web fullstack.",
-    "location": "Surakarta, Jawa Tengah",
-    "portfolio_url": "https://auliapratama.com"
+    "angkatan": "2024",
+    "photo_url": "/profile.jpeg",
+    "headline": "Fullstack Web Developer | Junior IT",
+    "short_bio": "Saya adalah seorang mahasiswa Teknik Informatika yang memiliki ketertarikan kuat pada pengembangan web, khususnya di bidang frontend dan backend.",
+    "location": "Sukoharjo, Jawa Tengah",
+    "portfolio_url": "https://yogaandika.com"
   },
 
   "skills": [
-    {
-      "id": 1,
-      "name": "ReactJS",
-      "category": "technical",
-      "level": "advanced",
-      "is_main": true,
-      "years_of_experience": 2,
-      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-    },
-    {
-      "id": 2,
-      "name": "Django REST Framework",
-      "category": "technical",
-      "level": "intermediate",
-      "is_main": true,
-      "years_of_experience": 1,
-      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
-    },
-    {
-      "id": 3,
-      "name": "Tailwind CSS",
-      "category": "technical",
-      "level": "intermediate",
-      "is_main": false,
-      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-    }
-  ],
+  {
+    "id": 1,
+    "name": "ReactJS",
+    "category": "technical",
+    "level": "Basic",
+    "is_main": true,
+    "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+  },
+  {
+    "id": 2,
+    "name": "Django REST Framework",
+    "category": "technical",
+    "level": "Basic - Intermediate",
+    "is_main": true,
+    "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+  },
+
+  {
+    "id": 3,
+    "name": "Tailwind CSS",
+    "category": "technical",
+    "level": "Intermediate",
+    "is_main": false,
+    "years_of_experience": 1,
+    "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+  },
+
+  {
+    "id": 4,
+    "name": "JavaScript",
+    "category": "technical",
+    "level": "Basic - Intermediate",
+    "is_main": false,
+    "years_of_experience": 1,
+    "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+  },
+  {
+    "id": 5,
+    "name": "Dasar Database & API Integration",
+    "category": "technical",
+    "level": "Intermediate",
+    "is_main": false,
+    "years_of_experience": 1,
+    "icon_url": "https://cdn-icons-png.flaticon.com/512/4248/4248443.png"
+  },
+  {
+    "id": 6,
+    "name": "Konfigurasi Jaringan Internet",
+    "category": "technical",
+    "level": "Basic - Intermediate",
+    "is_main": false,
+    "years_of_experience": 1,
+    "icon_url": "https://cdn-icons-png.flaticon.com/512/3064/3064197.png"
+  }
+]
+,
 
   "experiences": [
     {
       "id": 101,
-      "title": "Frontend Developer Intern",
-      "organization": "PT Digital Solusi Nusantara",
+      "title": "Magang (PKL) Associate Kualitas & Operasi",
+      "organization": "PT DIAMETRAL INVOLUTE",
       "experience_type": "internship",
-      "start_date": "2024-07-01",
-      "end_date": "2024-09-30",
+      "start_date": "2022-09-01",
+      "end_date": "2022-10-31",
       "is_current": false,
-      "description": "Mengembangkan antarmuka dashboard internal menggunakan React.",
-      "technologies": ["ReactJS", "Tailwind CSS"],
+      "description": "Bertugas di bagian Quality Control (QC) untuk membantu pembuatan dan pengelolaan berkas Quantity (QTY) sebagai dokumen pengiriman barang. Melatih ketelitian, tanggung jawab, serta kemampuan bekerja dengan sistem administrasi industri.",
+      "technologies": ["Quality Control", "Administration", "Documentation", "Attention to Detail"],
       "image_url": "https://cdn.example.com/company/digitalsolusi.png"
     },
     {
       "id": 102,
-      "title": "Head of Web Development Division",
-      "organization": "UKM Informatika UMS",
-      "experience_type": "organization",
-      "start_date": "2023-01-01",
-      "end_date": "2023-12-31",
+      "title": "MAGANG (PKL) – TEKNISI JARINGAN",
+      "organization": "PT. PANGLIMA KAMAYO MEDIA",
+      "experience_type": "internship",
+      "start_date": "2023-09-01",
+      "end_date": "2023-11-31",
       "is_current": false,
-      "description": "Mengkoordinasi tim pengembang web untuk kegiatan UKM.",
+      "description": "Melakukan instalasi dan perawatan jaringan LAN di lingkungan client. Membantu troubleshooting perangkat komputer dan konfigurasi jaringan dasar.",
+      "technologies": ["Basic Networking", "LAN Installation", "Troubleshooting", "Client Support"],
       "image_url": "https://cdn.example.com/logo/ukm-informatika.png"
     },
     {
       "id": 103,
-      "title": "Backend Developer (Freelance)",
-      "organization": "Freelance Project",
+      "title": "QALIBEE - DESAIN APLIKASI QUR'AN",
+      "organization": "Project Pribadi",
       "experience_type": "project",
-      "start_date": "2024-10-01",
+      "start_date": "2025-10-01",
       "end_date": null,
       "is_current": true,
-      "description": "Membangun API backend UMKM menggunakan DRF dan PostgreSQL.",
-      "technologies": ["Django", "DRF", "PostgreSQL"],
+      "description": "Perancangan dan pengembangan desain front-end aplikasi Qur'an berbasis web. Bertanggung jawab pada UI/UX, integrasi API, serta prototyping fitur-fitur pembelajaran interaktif.",
+      "technologies": ["UI/UX", "Front-end", "API Integration", "Prototyping"],
       "image_url": "https://cdn.example.com/projects/umkm-inventory.png"
     }
   ],
