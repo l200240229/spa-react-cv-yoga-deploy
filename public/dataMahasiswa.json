@@ -1,0 +1,118 @@
+{
+  "id": 12,
+  "slug": "yoga-andika-hanryant-pratama-l200240229",
+
+  "profile": {
+    "full_name": "Yoga Andika Hanryant Pratama",
+    "nim": "L200240229",
+    "prodi": "Teknik Informatika",
+    "angkatan": "2024",
+    "photo_url": "/photo/profile.jpeg",
+    "headline": "Fullstack Web Developer | Junior IT",
+    "short_bio": "Saya adalah seorang mahasiswa Teknik Informatika yang memiliki ketertarikan kuat pada pengembangan web, khususnya di bidang frontend dan backend.",
+    "location": "Sukoharjo, Jawa Tengah",
+    "portfolio_url": "https://yogaandika-cv.netlify.app/"
+  },
+
+  "skills": [
+  {
+    "id": 1,
+    "name": "ReactJS",
+    "category": "technical",
+    "level": "Basic",
+    "is_main": true,
+    "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+  },
+  {
+    "id": 2,
+    "name": "Django REST Framework",
+    "category": "technical",
+    "level": "Basic - Intermediate",
+    "is_main": true,
+    "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+  },
+
+  {
+    "id": 3,
+    "name": "Tailwind CSS",
+    "category": "technical",
+    "level": "Intermediate",
+    "is_main": false,
+    "years_of_experience": 1,
+    "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+  },
+
+  {
+    "id": 4,
+    "name": "JavaScript",
+    "category": "technical",
+    "level": "Basic - Intermediate",
+    "is_main": false,
+    "years_of_experience": 1,
+    "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+  },
+  {
+    "id": 5,
+    "name": "Dasar Database & API Integration",
+    "category": "technical",
+    "level": "Intermediate",
+    "is_main": false,
+    "years_of_experience": 1,
+    "icon_url": "https://cdn-icons-png.flaticon.com/512/4248/4248443.png"
+  },
+  {
+    "id": 6,
+    "name": "Konfigurasi Jaringan Internet",
+    "category": "technical",
+    "level": "Basic - Intermediate",
+    "is_main": false,
+    "years_of_experience": 1,
+    "icon_url": "https://cdn-icons-png.flaticon.com/512/3064/3064197.png"
+  }
+]
+,
+
+  "experiences": [
+    {
+      "id": 101,
+      "title": "Magang (PKL) Associate Kualitas & Operasi",
+      "organization": "PT DIAMETRAL INVOLUTE",
+      "experience_type": "internship",
+      "start_date": "2022-09-01",
+      "end_date": "2022-10-31",
+      "is_current": false,
+      "description": "Bertugas di bagian Quality Control (QC) untuk membantu pembuatan dan pengelolaan berkas Quantity (QTY) sebagai dokumen pengiriman barang. Melatih ketelitian, tanggung jawab, serta kemampuan bekerja dengan sistem administrasi industri.",
+      "technologies": ["Quality Control", "Administration", "Documentation", "Attention to Detail"],
+      "image_url": "https://cdn.example.com/company/digitalsolusi.png"
+    },
+    {
+      "id": 102,
+      "title": "MAGANG (PKL) – TEKNISI JARINGAN",
+      "organization": "PT. PANGLIMA KAMAYO MEDIA",
+      "experience_type": "internship",
+      "start_date": "2023-09-01",
+      "end_date": "2023-11-31",
+      "is_current": false,
+      "description": "Melakukan instalasi dan perawatan jaringan LAN di lingkungan client. Membantu troubleshooting perangkat komputer dan konfigurasi jaringan dasar.",
+      "technologies": ["Basic Networking", "LAN Installation", "Troubleshooting", "Client Support"],
+      "image_url": "https://cdn.example.com/logo/ukm-informatika.png"
+    },
+    {
+      "id": 103,
+      "title": "QALIBEE - DESAIN APLIKASI QUR'AN",
+      "organization": "Project Pribadi",
+      "experience_type": "project",
+      "start_date": "2025-10-01",
+      "end_date": null,
+      "is_current": true,
+      "description": "Perancangan dan pengembangan desain front-end aplikasi Qur'an berbasis web. Bertanggung jawab pada UI/UX, integrasi API, serta prototyping fitur-fitur pembelajaran interaktif.",
+      "technologies": ["UI/UX", "Front-end", "API Integration", "Prototyping"],
+      "image_url": "https://cdn.example.com/projects/umkm-inventory.png"
+    }
+  ],
+
+  "statistics": {
+    "views_count": 127,
+    "profile_complete_percent": 92
+  }
+}
